@@ -1,6 +1,6 @@
 {
   "name": "@nealh/nealhamacher-npm-package-trial",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Trial of making an npm package",
   "main": "index.js",
   "scripts": {

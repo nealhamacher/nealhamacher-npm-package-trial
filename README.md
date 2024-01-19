@@ -10,9 +10,11 @@ Trial run creating and publishing an npm package
 **Require it:**  
 `const _ = require('nealhamacher/nealhamacher-npm-package-trial)`  
 **Call it:**  
-`const results = _.firstFunction()`
+`const results = square(number)`
 
 ## Documentation  
 The following functions are currently implemented:  
+    square(number) -> squares a number
+    times2(number) -> multiplies a number by 2
 
 
