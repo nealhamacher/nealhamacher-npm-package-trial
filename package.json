@@ -1,6 +1,6 @@
 {
   "name": "@nealh/nealhamacher-npm-package-trial",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Trial of making an npm package",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nealhamacher-npm-package-trial"
+    "url": "https://github.com/nealhamacher-npm-package-trial.git"
   },
   "keywords": [
     "test-npm"
