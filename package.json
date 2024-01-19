@@ -1,0 +1,19 @@
+{
+  "name": "@nealh/nealhamacher-npm-package-trial",
+  "version": "1.0.0",
+  "description": "Trial of making an npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nealhamacher-npm-package-trial"
+  },
+  "keywords": [
+    "test-npm"
+  ],
+  "author": "Neal Hamacher",
+  "license": "ISC",
+  "homepage": "https://github.com/nealhamacher/nealhamacher-npm-package-trial#readme"
+}
